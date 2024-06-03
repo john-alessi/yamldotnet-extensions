@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\git\\yamldotnet-extensions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|c:\\git\\yamldotnet-extensions\\yamldotnetextensions\\commentserialization\\commentobjectgraphvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|solutionrelative:yamldotnetextensions\\commentserialization\\commentobjectgraphvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB620C80-B05D-4DB4-8962-D241B6614AC4}|YamlDotNetExtensionsTests\\YamlDotNetExtensionsTests.csproj|c:\\git\\yamldotnet-extensions\\yamldotnetextensionstests\\commentserializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB620C80-B05D-4DB4-8962-D241B6614AC4}|YamlDotNetExtensionsTests\\YamlDotNetExtensionsTests.csproj|solutionrelative:yamldotnetextensionstests\\commentserializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|c:\\git\\yamldotnet-extensions\\yamldotnetextensions\\extendedobjectmodel\\extendedobjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|solutionrelative:yamldotnetextensions\\extendedobjectmodel\\extendedobjectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|c:\\git\\yamldotnet-extensions\\yamldotnetextensions\\commentserialization\\commentobjectgraphvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|solutionrelative:yamldotnetextensions\\commentserialization\\commentobjectgraphvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0549FF4C-AB11-4D19-8667-C5787CF81851}|YamlDotNetExtensions\\YamlDotNetExtensions.csproj|c:\\git\\yamldotnet-extensions\\yamldotnetextensions\\commentserialization\\icommentwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CommentObjectGraphVisitor.cs",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensions\\CommentSerialization\\CommentObjectGraphVisitor.cs",
               "RelativeDocumentMoniker": "YamlDotNetExtensions\\CommentSerialization\\CommentObjectGraphVisitor.cs",
@@ -71,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CommentSerializationTests.cs",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensionsTests\\CommentSerializationTests.cs",
               "RelativeDocumentMoniker": "YamlDotNetExtensionsTests\\CommentSerializationTests.cs",
               "ToolTip": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensionsTests\\CommentSerializationTests.cs",
               "RelativeToolTip": "YamlDotNetExtensionsTests\\CommentSerializationTests.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T21:45:45.495Z",
               "EditorCaption": ""
@@ -92,8 +92,7 @@
               "RelativeToolTip": "YamlDotNetExtensions\\CommentSerialization\\CommentWrapper.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAUwCUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:30:33.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:30:33.674Z"
             },
             {
               "$type": "Document",
@@ -105,12 +104,11 @@
               "RelativeToolTip": "YamlDotNetExtensions\\CommentSerialization\\ICommentWrapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:05:08.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:05:08.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TestConfigSerializer.cs",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensionsTests\\TestObjectModel\\TestConfigSerializer.cs",
               "RelativeDocumentMoniker": "YamlDotNetExtensionsTests\\TestObjectModel\\TestConfigSerializer.cs",
@@ -118,12 +116,11 @@
               "RelativeToolTip": "YamlDotNetExtensionsTests\\TestObjectModel\\TestConfigSerializer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:36:30.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:36:30.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ExtendedObjectModel.cs",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensions\\ExtendedObjectModel\\ExtendedObjectModel.cs",
               "RelativeDocumentMoniker": "YamlDotNetExtensions\\ExtendedObjectModel\\ExtendedObjectModel.cs",
@@ -131,12 +128,11 @@
               "RelativeToolTip": "YamlDotNetExtensions\\ExtendedObjectModel\\ExtendedObjectModel.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAAwBwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T23:08:19.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T23:08:19.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestConfig.cs",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensionsTests\\TestObjectModel\\TestConfig.cs",
               "RelativeDocumentMoniker": "YamlDotNetExtensionsTests\\TestObjectModel\\TestConfig.cs",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "YamlDotNetExtensionsTests\\TestObjectModel\\TestConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:23:59.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:23:59.813Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "YamlDotNetExtensions\\CommentSerialization\\CommentScanner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:07:32.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:07:32.188Z"
             },
             {
               "$type": "Document",
@@ -170,34 +164,31 @@
               "RelativeToolTip": "YamlDotNetExtensions\\CommentSerialization\\CommentParser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T22:06:40.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:06:40.306Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "YamlDotNetExtensionsTests",
+              "Title": "YamlDotNetExtensionsTests.csproj",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensionsTests\\YamlDotNetExtensionsTests.csproj",
               "RelativeDocumentMoniker": "YamlDotNetExtensionsTests\\YamlDotNetExtensionsTests.csproj",
               "ToolTip": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensionsTests\\YamlDotNetExtensionsTests.csproj",
               "RelativeToolTip": "YamlDotNetExtensionsTests\\YamlDotNetExtensionsTests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-31T22:09:29.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T22:09:29.145Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "YamlDotNetExtensions",
+              "Title": "YamlDotNetExtensions.csproj",
               "DocumentMoniker": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensions\\YamlDotNetExtensions.csproj",
               "RelativeDocumentMoniker": "YamlDotNetExtensions\\YamlDotNetExtensions.csproj",
               "ToolTip": "C:\\git\\yamldotnet-extensions\\YamlDotNetExtensions\\YamlDotNetExtensions.csproj",
               "RelativeToolTip": "YamlDotNetExtensions\\YamlDotNetExtensions.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-31T21:57:26.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T21:57:26.853Z"
             }
           ]
         }
