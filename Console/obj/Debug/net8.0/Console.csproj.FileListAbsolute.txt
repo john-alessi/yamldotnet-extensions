@@ -1,0 +1,15 @@
+C:\git\yamldotnet-extensions\Console\bin\Debug\net8.0\Console.exe
+C:\git\yamldotnet-extensions\Console\bin\Debug\net8.0\Console.deps.json
+C:\git\yamldotnet-extensions\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\git\yamldotnet-extensions\Console\bin\Debug\net8.0\Console.dll
+C:\git\yamldotnet-extensions\Console\bin\Debug\net8.0\Console.pdb
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.sourcelink.json
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.dll
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\refint\Console.dll
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.pdb
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\git\yamldotnet-extensions\Console\obj\Debug\net8.0\ref\Console.dll
