@@ -3,12 +3,12 @@ using YamlDotNetExtensions.CommentSerialization;
 
 namespace YamlDotNetExtensionsTests.TestObjectModel
 {
-    public class TestConfigSerializer
+    public class ConfigSerializer<TConfig>
     {
         private ISerializer _serializer;
         private IDeserializer _deserializer;
 
-        public TestConfigSerializer()
+        public ConfigSerializer()
         {
             _serializer = new SerializerBuilder()
                 .ConfigureDefaultValuesHandling(DefaultValuesHandling.OmitEmptyCollections | DefaultValuesHandling.OmitNull)
@@ -19,10 +19,10 @@ namespace YamlDotNetExtensionsTests.TestObjectModel
             _deserializer = new DeserializerBuilder().Build();
         }
 
-        public TestConfig Deserialize(string yaml)
+        public TConfig Deserialize(string yaml)
         {
             var parser = new CommentParser(yaml);
-            return _deserializer.Deserialize<TestConfig>(parser);
+            return _deserializer.Deserialize<TConfig>(parser);
         }
 
         public string Serialize(TestConfig testConfig) => _serializer.Serialize(testConfig);

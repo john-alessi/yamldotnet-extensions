@@ -1,5 +1,6 @@
 ﻿using YamlDotNet.Serialization;
 using YamlDotNetExtensions.CommentSerialization;
+using YamlDotNetExtensions.ExtendedObjectModel;
 
 namespace YamlDotNetExtensionsTests.TestObjectModel
 {
@@ -7,9 +8,9 @@ namespace YamlDotNetExtensionsTests.TestObjectModel
     public class TestConfig
     {
         [YamlMember(Alias = "version")]
-        public CommentWrapper<int>? Version { get; set; }
+        public int? Version { get; set; }
 
         [YamlMember(Alias = "name")]
-        public CommentWrapper<string>? Name { get; set; }
+        public string? Name { get; set; }
     }
 }
